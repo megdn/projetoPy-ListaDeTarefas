@@ -1,5 +1,3 @@
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
 def mostrar_menu():
    print("\n====== LISTA DE TAREFAS ======")
    print("1. Adicionar Nova Tarefa")
